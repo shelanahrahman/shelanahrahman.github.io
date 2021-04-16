@@ -2,31 +2,10 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](https://github.com/shelrx/shelrx_predictingstarratings)
+[Project 1 Overview: Predicting Restaurant Star Rating Using Machine Learning](https://github.com/shelrx/shelrx_predictingstarratings)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+In this task, I produced two stacking model, incorporating the Multinomial Naïve Bayes and Logistic Regression as base classifiers. The models differed by their meta classifiers, where one used a decision tree model and the other used the Gaussian Naïve Bayes model. I chose to train the models on the sparse matrix retrieved from using CountVectoriser on the original text training data. The predictions for each model are stored in a csv file.
 
 
 

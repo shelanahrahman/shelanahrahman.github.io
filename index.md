@@ -14,7 +14,7 @@ Language: Python 3
 ---
 
 
-### [Project 2 Overview: Predicting Ride Demand in New York City for Taxi Drivers](https://github.com/MAST30034-2021-S2/mast30034_2021_s2_project_1-shelanahrahman)
+### [Project 2 Overview: Predicting Ride Demand in New York City for Taxi Drivers](https://github.com/shelanahrahman/Predicting_Taxi_Demand)
 
 In this project I did as my first complete data science project, I suggested a model that predicts the taxi demand given a certain time period and location. I did this by aggregating the combined NYC taxi data and FHVHV data by the median of the features.  Then, I visualised and analysed the geographic and time series data to retrieve any useful trends.  The features are selected through analysing their distribution of features in regards to the trip demand classification and correlation between features.  Lastly, a random forest model was fitted against the final selected features and the hyper parameters were tuned through RandomSearchCV to improve its performance. For more details on the analysis done in this project, refer to the report linked in the read me file. I received a H1 (highest grading) for this project.
 

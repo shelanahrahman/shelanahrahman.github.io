@@ -1,8 +1,7 @@
 # Portfolio
 
-## Data Science Projects
 ---
-
+## Data Science Projects
 
 ### [Project 1 Overview: Predicting Restaurant Star Ratings Using Machine Learning](https://github.com/shelrx/shelrx_predictingstarratings)
 

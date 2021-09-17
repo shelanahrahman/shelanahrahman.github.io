@@ -38,7 +38,7 @@ Language: Python 3
 
 ### [Project 4 Overview:  Original, Simulatanous-Play RoPaSci360 AI](https://github.com/shelanahrahman/RoPaSci_Project_B)
 
-In this project completed with a partner Ayda Zhao, we designed and implemented a program to play the game of RoPaSci 360. Given information about the evolving state of the game, our program aimed to beat the opponent player. We implemented an altered version of the minimax algorithm to select actions throughout the game. In order to consider the simultaneous-play nature of RoPaSci360, our minimax algorithm makes predictions based on the original position of the enemy’s tokens to have knowledge of how to act against the enemies.
+In this project completed with a partner Ayda Zhao, we designed and implemented a program to play the game of RoPaSci 360. Given information about the evolving state of the game, our program aims to beat the opponent player. We implemented an altered version of the minimax algorithm to select actions throughout the game. In order to consider the simultaneous-play nature of RoPaSci360, our minimax algorithm makes predictions based on the original position of the enemy’s tokens to have knowledge of how to act against the enemies.
 
 Language: Python 3
 

@@ -48,7 +48,7 @@ Language: Python 3
 
 ### [Project 5 Overview: Kris Kringle Generator](https://github.com/shelanahrahman/Kris-Kringle-)
 
-This project was completed purely for fun. I created a Kris Kringle Generator that matches participants to a person to give a gift to and then sends an email to participants on this information. This method was created during lockdown where we could not physically pick a name from a box. Hence, this method allowed for complete randomness.
+This project was completed purely for fun. I created a Kris Kringle Generator that matches participants to a person to give a gift to, which then sends an email to participants with information on who they have to give a gift to. This method was created during lockdown where we could not physically pick a name from a box. Hence, this method was a good alternative that allowed for a completely random selection.
 
 Language: Python 3
 

@@ -24,7 +24,7 @@ Language: Python 3
 ---
 ## Artificial Intelligence 
 
-### [Project 3 Overview: Single-Player, Search-based variant of the game RoPaSci360](https://github.com/shelanahrahman/RoPaSci_Project_A)
+### [Project 3 Overview: Single-Player, Search-based variant of the game RoPaSci360 AI](https://github.com/shelanahrahman/RoPaSci_Project_A)
 
 In this project completed with a partner Ayda Zhao, we implemented the BFS algorithm to find the most efficient solution where the player's token has to defeat the opponent's tokens with the least moves. The single-player variant of RoPaSci360 is a game played on a hexagonal board of 61 hexes, where the player’s token (upper tokens) are all simultaneously moved each turn in order to defeat all the lower tokens on the board. Each token has a symbol of rock, paper or scissors and follows the ruling of the traditional game, “rock, paper, scissors”. The possible moves are slide actions (direct move one hex away from the original hex) and swing actions (a slide action from an adjacent upper-token). When the program is executed, our program reads a JSON-formatted board configuration from a file, calculate a winning sequence of actions, and prints out the sequence of actions.
 
